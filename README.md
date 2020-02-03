@@ -1,5 +1,5 @@
 # goodfood
-Projeto baseado na pesquisa de bons resta  em Aracaju
+Projeto baseado na pesquisa de bons restaurantes em Aracaju
 
 ultilizando tecnológias como :
 *React Navigation,
